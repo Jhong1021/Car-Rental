@@ -41,8 +41,8 @@ const AboutUs = () => {
         <div className="mb-12 text-center">
           <h2 className="text-2xl font-bold mb-4">Company Overview</h2>
           <p className="text-gray-700 max-w-2xl mx-auto">
-            At our car rental company, we are committed to delivering a seamless and enjoyable rental experience. 
-            Whether you're planning a road trip, need a temporary vehicle, or are looking for a business rental, 
+            At our car rental company, we are committed to delivering a seamless and enjoyable rental experience.
+            Whether you're planning a road trip, need a temporary vehicle, or are looking for a business rental,
             we provide top-quality cars and exceptional customer service to meet your needs.
           </p>
         </div>
@@ -50,7 +50,7 @@ const AboutUs = () => {
         <div className="mb-12 text-center">
           <h2 className="text-2xl font-bold mb-4">Mission Statement</h2>
           <p className="text-gray-700 max-w-2xl mx-auto">
-            Our mission is to make car rentals easy and accessible for everyone. We strive to offer a wide range 
+            Our mission is to make car rentals easy and accessible for everyone. We strive to offer a wide range
             of vehicles, flexible rental options, and outstanding support to ensure our customers have a hassle-free experience.
           </p>
         </div>
