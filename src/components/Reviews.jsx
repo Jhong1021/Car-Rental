@@ -16,7 +16,7 @@ const Reviews = () => {
                         <div className="flex items-center space-x-4">
                             <Avatar>
                                 <AvatarImage
-                                    src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-1/451818686_1924624231322581_8494845157404123410_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=e3T0TPMzxVMQ7kNvgHw8l-V&_nc_ht=scontent.fmnl17-3.fna&oh=00_AYBt2bciacPrMG_h497WVtRDLX7nMjZKmKK4LifAAnpKXA&oe=66C0F16B"
+                                    src="https://img.freepik.com/free-photo/selfie-portrait-videocall_23-2149186104.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1725062400&semt=ais_hybrid"
                                     className="w-16 h-16 rounded-full object-cover"
                                 />
                                 <AvatarFallback>JD</AvatarFallback>
@@ -35,7 +35,7 @@ const Reviews = () => {
                     <div className="bg-white/30 backdrop-blur-lg rounded-lg p-6 space-y-4">
                         <div className="flex items-center space-x-4">
                             <Avatar>
-                                <AvatarImage src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/449385967_1185009389513532_491683255665751575_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9G2NHa-EnXYQ7kNvgHN9yQj&_nc_ht=scontent.fmnl17-2.fna&oh=00_AYBSKIC91p-T8QY6U1csIEZzMvZTzZjkur_BFBwBY9o0JQ&oe=66C0FBD6"
+                                <AvatarImage src="https://favim.com/pd/s4/orig/160107/boy-icon-random-tumblr-Favim.com-3854704.jpg"
                                     className='w-16 h-16 rounded-full object-cover'
                                 />
                                 <AvatarFallback>JS</AvatarFallback>

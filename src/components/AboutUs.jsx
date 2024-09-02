@@ -4,19 +4,19 @@ const teamMembers = [
   {
     name: "Jan Lester",
     role: "CEO",
-    img: "https://scontent.fmnl17-6.fna.fbcdn.net/v/t39.30808-1/295908517_5397205707059415_6358912750643085375_n.jpg?stp=dst-jpg_p200x200&_nc_cat=109&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=4tbHkZD8u4AQ7kNvgG3PmSq&_nc_ht=scontent.fmnl17-6.fna&oh=00_AYBkI_PBqZkgRAlnuEQNQpZThI-1mpejDOu5lnWmLJP5LQ&oe=66C0C6DB", // Replace with actual image URL
+    img: "https://img.freepik.com/free-photo/front-view-portrait-businessman-with-glasses_23-2148816831.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1725062400&semt=ais_hybrid",
     bio: "Jan is the visionary behind our company, dedicated to providing the best car rental experience.",
   },
   {
     name: "Glen Serdeño",
     role: "Operations Manager",
-    img: "https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/382987555_7231737546855766_4011020421764839181_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=mgbs_EP3bykQ7kNvgGov_Ch&_nc_ht=scontent.fmnl17-2.fna&oh=00_AYBZlUFalx4ts46GLtso0orv3qGd0ZauNo6aundBSO5Jlg&oe=66C0BFE3", // Replace with actual image URL
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoq0f1tSU2b8opZaApGh5tl2FreFb52dyo6Q&s",
     bio: "Glen oversees daily operations, ensuring everything runs smoothly and efficiently.",
   },
   {
     name: "La Alcantara",
     role: "Customer Service Specialist",
-    img: "https://scontent.fmnl17-4.fna.fbcdn.net/v/t39.30808-6/449298640_2280457188958427_1314692579417369936_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=CKaZ3SGdT5IQ7kNvgEEUuMX&_nc_ht=scontent.fmnl17-4.fna&oh=00_AYBXkbBZ1GSIRGuPGv5Thc6oVw5ql9yzshxwIJS5Fp3dtw&oe=66C0CEC0", // Replace with actual image URL
+    img: "https://xsgames.co/randomusers/assets/avatars/male/8.jpg",
     bio: "La is our go-to person for customer support, always ready to assist and solve problems.",
   },
 ];
